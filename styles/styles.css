@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color:#336666
+}
+body {
+    font-family: 'Montserrat', sans-serif; /* 'Your Chosen Font' 更改為您所選的字體名稱 */
+}
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
